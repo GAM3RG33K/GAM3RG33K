@@ -46,6 +46,7 @@ I am a curious person, who wants to put learned knowledge into practical applica
 ## My Apps
 <ul>
 <li><a href="https://gam3rg33k.github.io/freelance-earnings-calculator/">Freelance Earnings Calculator</a></li>
+<li>A Mysterious Utility App - Coming Soon</li>
 </ul>
 
 ## Packages, Plugins & Extensions
