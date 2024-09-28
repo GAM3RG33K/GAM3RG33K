@@ -42,16 +42,11 @@ I am a curious person, who wants to put learned knowledge into practical applica
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4'/></p>
 
-## Github Stats
-<p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=GAM3RG33K&theme=midnight" style="margin-right:4px;">
-<img src="https://streak-stats.demolab.com/?user=GAM3RG33K&theme=holi-theme">
-</p>
-
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4'/></p>
 
 ## My Apps
-### Coming soon
+<ul>
+<li><a href="https://gam3rg33k.github.io/freelance-earnings-calculator/">Freelance Earnings Calculator</a></li>
+</ul>
 
 ## Packages, Plugins & Extensions
 <ul>
