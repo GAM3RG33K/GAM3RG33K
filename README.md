@@ -5,7 +5,7 @@
 
 [<img src="https://skillicons.dev/icons?i=stackoverflow">](https://stackoverflow.com/users/8112679/harshvardhan-joshi) [<img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/harshvardhan-joshi) [<img src="https://skillicons.dev/icons?i=devto">](https://dev.to/harsh-joshi)
 
-## [Portfolio 🔗](https://hjoshi-devcase.web.app/)
+## [Portfolio 🔗](https://harshjoshi.dev/)
 
 
 ## About Me
