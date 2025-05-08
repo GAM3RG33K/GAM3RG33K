@@ -46,6 +46,7 @@ I am a curious person, who wants to put learned knowledge into practical applica
 ## My Apps
 <ul>
 <li><a href="https://gam3rg33k.github.io/freelance-earnings-calculator/">Freelance Earnings Calculator</a></li>
+<li><a href="https://exch.harshjoshi.dev/">Exch ⚡ - Currency Convertor App</a></li>
 <li>A Mysterious Utility App - Coming Soon</li>
 </ul>
 
@@ -59,6 +60,7 @@ I am a curious person, who wants to put learned knowledge into practical applica
 
 ## My work
 <ul>
+  <li><a href="https://play.google.com/store/apps/details?id=app.fortime">ForTime - Workout WOD Timer</a>, ©️Agilevent</li> 
   <li><a href="https://play.google.com/store/apps/details?id=org.InvestarMobile.androidapp">Investar India - Mobile</a>, ©️Proseon Technologies</li> 
   <li><a href="https://play.google.com/store/apps/details?id=com.rockerstech.ticketing_software">Check-In Manager</a>, ©️Rockers Technologies</li>
   <li><a href="https://play.google.com/store/apps/details?id=com.rockersinfo.equity_real_estate">Realestate Crowdfunding</a>, ©️Rockers Technologies</li>
