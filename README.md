@@ -87,8 +87,9 @@ Reusable skills for AI coding agents (Claude Code, Cursor, Codex and similar):
 ---
 
 ## My Apps
+- [Artflow - AI Gallery & Wallpapers](https://artflow.harshjoshi.dev/) — [releases](https://github.com/GAM3RG33K/art-flow-releases)
 - [Freelance Earnings Calculator](https://gam3rg33k.github.io/freelance-earnings-calculator/)
-- [Exch ⚡ - Currency Converter](https://exch.harshjoshi.dev/)
+- [Exch ⚡ - Currency Converter](https://exch.harshjoshi.dev/landing)
 - A Mysterious Utility App - Coming Soon
 
 ## My work
