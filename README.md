@@ -92,13 +92,6 @@ Reusable skills for AI coding agents (Claude Code, Cursor, Codex and similar):
 - [Exch ⚡ - Currency Converter](https://exch.harshjoshi.dev/landing)
 - A Mysterious Utility App - Coming Soon
 
-## My work
-- [ForTime - Workout WOD Timer](https://play.google.com/store/apps/details?id=app.fortime), ©️Agilevent
-- [Investar India - Mobile](https://play.google.com/store/apps/details?id=org.InvestarMobile.androidapp), ©️Proseon Technologies
-- [Check-In Manager](https://play.google.com/store/apps/details?id=com.rockerstech.ticketing_software), ©️Rockers Technologies
-- [Realestate Crowdfunding](https://play.google.com/store/apps/details?id=com.rockersinfo.equity_real_estate), ©️Rockers Technologies
-- [Equity Crowdfunding](https://play.google.com/store/apps/details?id=com.rockers.equity), ©️Rockers Technologies
-
 ## Packages & Extensions
 - [To-Discord Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/to-discord)
 
