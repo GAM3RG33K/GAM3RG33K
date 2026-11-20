@@ -61,12 +61,11 @@ Flutter · React Native
 
 | Project | What it is |
 |---|---|
-| **[omniframe](https://github.com/GAM3RG33K/omniframe)** | AI agent skill for video search & keyframes; host of the Custom AI Harness |
-| **[git-what](https://github.com/GAM3RG33K/git-what)** | AI agent skill — release notes / commit summaries from git history |
 | **[pixel-press](https://github.com/GAM3RG33K/pixel-press)** | Local-LLM desktop video compressor (Tauri + Rust + React + llama.cpp) |
+| **[ai-harness-generator](https://github.com/GAM3RG33K/ai-harness-generator)** | An open-source AI agent skill that produces a durable AI harness for any software project |
+| **[git-what](https://github.com/GAM3RG33K/git-what)** | AI agent skill — release notes / commit summaries from git history |
 | **[mcp-harshjoshi-work](https://github.com/GAM3RG33K/mcp-harshjoshi-work)** | MCP server exposing my project catalog as searchable tools; 6-case eval harness |
-| **[local-rag](https://github.com/GAM3RG33K/local-rag)** | Local RAG pipeline for resume review and cover letters (LangChain + Ollama) |
-| **[perfmon-lite](https://github.com/GAM3RG33K/perfmon-lite)** | Terminal-based mobile profiler (Go + Bubble Tea) |
+| **[omniframe](https://github.com/GAM3RG33K/omniframe)** | AI agent skill for video search & keyframes; host of the Custom AI Harness |
 
 ---
 
@@ -74,6 +73,7 @@ Flutter · React Native
 
 Reusable skills for AI coding agents (Claude Code, Cursor, Codex and similar):
 
+- **[ai-harness-generator](https://github.com/GAM3RG33K/ai-harness-generator)** | An open-source AI agent skill that produces a durable AI harness for any software project |
 - **[omniframe](https://github.com/GAM3RG33K/omniframe)** — video search / keyframe extraction
 - **[git-what](https://github.com/GAM3RG33K/git-what)** — release notes, verify checklists, commit summaries
 - **[react-native-performance-analyzer](https://github.com/GAM3RG33K/react-native-performance-analyzer)** — analyze → fix → validate in release mode
