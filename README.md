@@ -109,15 +109,6 @@ Reusable skills for AI coding agents (Claude Code, Cursor, Codex and similar):
 
 ---
 
-## Shipped Apps
-
-- **[Tatva](https://play.google.com/store/apps/details?id=in.thetatva.tatva)** — news & articles app, 100k+ downloads
-- **[Meme'd](https://play.google.com/store/apps/details?id=in.memed.app)** — creator clipping app, 100k+ downloads
-- **[Solo for Creators](https://play.google.com/store/apps/details?id=app.solocreators.solo)** — creator economy platform, 50k+ downloads
-- **[Investar Mobile](https://play.google.com/store/apps/details?id=org.InvestarMobile.androidapp)** — stock market analysis app, 100k+ downloads
-
----
-
 ## Connect
 
 - 🌐 [harshjoshi.dev](https://harshjoshi.dev/)
